@@ -1,0 +1,12 @@
+gba/*.gba binary
+n64/*.z64 binary
+n64/*.n64 binary
+n64/*.apk binary
+nes/*.zip binary
+ps1/**/*.bin binary
+ps1/**/*.cue text
+ps2/*.iso binary
+psp/*.iso binary
+"sega mega drive/*.md" binary
+"sega mega drive/*.bin" binary
+"sega master sistem/*.zip" binary
